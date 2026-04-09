@@ -1,0 +1,8 @@
+package com.subham.FlifcartFactory;
+
+public class DelhiveryAdmin {
+
+	public TenjinCore setType(String CourierType) {
+		return null;
+	}
+}

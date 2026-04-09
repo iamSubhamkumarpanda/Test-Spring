@@ -1,0 +1,10 @@
+package com.subham.FlifcartFactory;
+import java.util.Date;
+public class DelhiveryAdmin {
+String time;
+	public TenjinCore setType(String CourierType) {
+		
+		
+		return null;
+	}
+}

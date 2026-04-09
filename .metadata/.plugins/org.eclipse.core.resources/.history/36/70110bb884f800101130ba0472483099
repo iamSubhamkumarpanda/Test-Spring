@@ -1,0 +1,15 @@
+package com.subham.FlifcartFactory;
+
+import java.util.*;
+
+public class DelhiveryAdmin {
+
+	Date d = new Date();
+	String time = d.getHours();
+
+	public TenjinCore setType(String CourierType) {
+		System.out.println("The time is:" + time);
+
+		return null;
+	}
+}
